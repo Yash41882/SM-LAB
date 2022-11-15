@@ -8,7 +8,8 @@ yf = 50
 vf = 25
 
 for i=1:13
-	dist = sqrt( (yb(i)-yf)^2 + (xb(i)-xf)^2 )
+    dist = sqrt( (yb(i)-yf)^2 + (xb(i)-xf)^2 )
+    
     sinx = (yb(i)-yf)/dist
     cosx = (xb(i)-xf)/dist
     
