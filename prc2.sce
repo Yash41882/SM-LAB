@@ -1,4 +1,4 @@
-//Inventory Problem
+//Problem - Inventory Problem - Select the best strategy for inventory management in a tyre shop
 //Given 5 Policies to be implemented on a tyre business, provide the output for each of the policy i.e. profit and loss for common random inputs and provide the best policy to be implement to maximize the profit.
 
 r = (floor(rand(1:90) * 100) + 1)
